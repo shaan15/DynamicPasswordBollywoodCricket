@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">DynamicPasswordBollywoodCricket</string>
+    <string name="instuctions">1. Use any username for signup process in main page
+        \n2. Select images belonging to a different category from the given list by long press and then click to add more images of different categories
+        \n3. Press next to continue
+        \n4. Click submit to continue
+        \n5. Login using your username in the signup process
+        \n6. Select similar images as your password choice</string>
+
+    <string name="spn_memory_burden">Memory Burden</string>
+    <string-array name="arr_memory_burden">
+        <item>Easy</item>
+        <item>Average</item>
+        <item>Difficult</item>
+    </string-array>
+
+    <string name="spn_understand">Understanding level</string>
+    <string-array name="arr_understand">
+        <item>Easy</item>
+        <item>Difficult</item>
+    </string-array>
+
+    <string name="spn_remember">Understanding level</string>
+    <string-array name="arr_remember">
+        <item>Easy</item>
+        <item>Difficult</item>
+    </string-array>
+    <string name="title_feedback">Feedback</string>
+    <string name="title_feedback_activity">Feedback Form</string>
+    <string name="tv_feedback_ease_to_remember">How easy is to remember the password</string>
+    <string name="tv_feeback_ease_of_registration">Ease of registration</string>
+    <string name="tv_feedback_ease_of_login">Ease of login</string>
+    <string name="tv_feedback_intuitivity">How intuitive is the password scheme</string>
+    <string name="tv_feedback_other_suggestion">Any other suggestion</string>
+    <string name="tv_feedback_overall_rating">Overall rating</string>
+
+    <string name="tv_easy">Easy</string>
+    <string name="tv_difficult">Hard</string>
+    <string name="tv_low">Low</string>
+    <string name="tv_high">High</string>
+
+    <string name="tv_intuitive_low">Not so\nintuitive</string>
+    <string name="tv_intuitive_high">Very\nintuitive</string>
+
+    <string name="et_feedback_suggestion">Write your thoughts</string>
+
+    <string name="btn_submit">Submit</string>
+
+    <!-- Dialog box -->
+    <string name="dialog_title">Sorry! This phone is not supported.</string>
+    <string name="dialog_message">Currently we do not support high density screen phones, meanwhile use the other two applications</string>
+    <string name="dialog_ok">OK</string>
+
+</resources>
+
+
